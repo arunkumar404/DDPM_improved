@@ -40,6 +40,7 @@
 ### Model Persistence
 
 - **Checkpointing Logic**
+- **Checkpoint Loading **
 
 ## 3. Additional Configurations
 
